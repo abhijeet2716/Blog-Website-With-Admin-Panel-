@@ -1,9 +1,3 @@
-Perfect 👍 Since your project is built using **HTML, CSS, and JavaScript**, here is a clean and professional **README.md** file customized for your stack.
-
-You can directly copy this into your `README.md` file.
-
----
-
 # 📝 Blog Website (With Admin Panel)
 
 ## 📌 Project Description
